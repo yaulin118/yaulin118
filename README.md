@@ -1,4 +1,4 @@
-### Hello! I’m Howard, and here is some background on me… 👋🏻 👋
+## Hello! I’m Howard, and here is some background on me… 👋🏻 👋
 
 ● 📚 Data Analytics bootcamp graduate (April 2022, Juno College)  
 ● 💾 Skilled in Excel / Sheets, SQL, Tableau, Python, Adobe (Lightroom/Photoshop/Premiere)  
@@ -10,4 +10,4 @@
 
 ● ⚡ Quick fact: I'm an avid PC enthusiast and gamer. I mostly play FPS and MMORPG games.
 
-### Connect with me
+## Connect with me
