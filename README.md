@@ -6,3 +6,5 @@
 ● 💎 4+ years of Data Analytics & Account Management experience gained in Tech Industry  
 ● 👔 Strengths: communication, Teamwork, attention to detail, mentorship  
 ● 👍 I’m a people-person! I enjoy relationship building and team collaboration  
+
+●⚡ Quick fact: I'm an avid PC enthusiast and gamer. I mostly play FPS and MMORPG games.
