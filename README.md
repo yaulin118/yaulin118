@@ -9,3 +9,5 @@
 ● 📄 My resume can be found [here](https://drive.google.com/file/d/1ic52fY_1GA07X86AvN0AM5KzHHAu6pbW/view?usp=sharing)
 
 ● ⚡ Quick fact: I'm an avid PC enthusiast and gamer. I mostly play FPS and MMORPG games.
+
+### Connect with me
