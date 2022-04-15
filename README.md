@@ -11,3 +11,4 @@
 ● ⚡ Quick fact: I'm an avid PC enthusiast and gamer. I mostly play FPS and MMORPG games.
 
 ## Connect with me
+### LinkedIn - https://www.linkedin.com/in/howardlin118/
