@@ -4,7 +4,7 @@
 ● 💾 Skilled in Excel / Sheets, SQL, Tableau, Python, Adobe (Lightroom/Photoshop/Premiere)  
 ● ⛺️ Google Data Analytics Certificate  
 ● 💎 6+ years of Data Analytics & Account Management experience gained in Tech Industry  
-● 👔 Strengths: communication, Teamwork, attention to detail, mentorship  
+● 👔 Strengths: SQL, Python, Product Sense, Apache Airflow, Excel  
 ● 👍 I’m a people-person! I enjoy relationship building and team collaboration  
 ● 📄 My resume can be found [here]([https://drive.google.com/file/d/1ic52fY_1GA07X86AvN0AM5KzHHAu6pbW/view?usp=sharing](https://drive.google.com/file/d/1L2wC76IVXgcRZ2QqfasFZb6XKU1hTltr/view?usp=sharing))
 
