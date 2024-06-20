@@ -1,6 +1,6 @@
 ## Hello! I’m Howard, and here is some background on me… 👋🏻 👋
 
-● 📚 Data Analytics bootcamp graduate (April 2022, Juno College)  
+● 📚 University of Michigan - Applied Data Science
 ● 💾 Skilled in Excel / Sheets, SQL, Tableau, Python, Adobe (Lightroom/Photoshop/Premiere)  
 ● ⛺️ Google Data Analytics Certificate  
 ● 💎 6+ years of Data Analytics & Account Management experience gained in Tech Industry  
